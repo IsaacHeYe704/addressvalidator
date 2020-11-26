@@ -1,0 +1,425 @@
+[   
+    {
+        "nombre": "Aguachica Cesar"
+    },
+    {
+        "nombre": "Apartadó Antioquia"
+    },
+    {
+        "nombre": "Arauca"
+    },
+    {
+        "nombre": "Armenia Quindío"
+    },
+    {
+        "nombre": "Barrancabermeja Santander"
+    },
+    {
+        "nombre": "Barranquilla Atlántico"
+    },
+    {
+        "nombre": "Bello Antioquia"
+    },
+    {
+        "nombre": "Bogotá"
+    },
+    {
+        "nombre": "Bucaramanga Santander"
+    },
+    {
+        "nombre": "Buenaventura Valle del Cauca"
+    },
+    {
+        "nombre": "Buga Valle del Cauca"
+    },
+    {
+        "nombre": "Cali Valle del Cauca"
+    },
+    {
+        "nombre": "Cartago Valle del Cauca"
+    },
+    {
+        "nombre": "Cartagena Bolivar"
+    },
+    {
+        "nombre": "Caucasia Antioquia"
+    },
+    {
+        "nombre": "Cereté Córdoba"
+    },
+    {
+        "nombre": "Chia"
+    },
+    {
+        "nombre": "Ciénaga Magdalena"
+    },
+    {
+        "nombre": "Cúcuta Norte de Santander"
+    },
+    {
+        "nombre": "Dosquebradas Risaralda"
+    },
+    {
+        "nombre": "Duitama Boyacá"
+    },
+    {
+        "nombre": "Envigado Antioquia"
+    },
+    {
+        "nombre": "Facatativá Cundinamarca"
+    },
+    {
+        "nombre": "Florencia Caqueta"
+    },
+    {
+        "nombre": "Floridablanca Santander"
+    },
+    {
+        "nombre": "Fusagasugá Cundinamarca"
+    },
+    {
+        "nombre": "Girardot Cundinamarca"
+    },
+    {
+        "nombre": "Girón Santander"
+    },
+    {
+        "nombre": "Ibagué Tolima"
+    },
+    {
+        "nombre": "Ipiales Nariño"
+    },
+    {
+        "nombre": "Itagüí Antioquia"
+    },
+    {
+        "nombre": "Jamundí Valle del Cauca"
+    },
+    {
+        "nombre": "Lorica Córdoba"
+    },
+    {
+        "nombre": "Magangué Bolivar"
+    },
+    {
+        "nombre": "Maicao Guajira"
+    },
+    {
+        "nombre": "Malambo Atlántico"
+    },
+    {
+        "nombre": "Manizales Caldas"
+    },
+    {
+        "nombre": "Medellín Antioquia"
+    },
+    {
+        "nombre": "Melgar Tolima"
+    },
+    {
+        "nombre": "Montería Córdoba"
+    },
+    {
+        "nombre": "Neiva Huila"
+    },
+    {
+        "nombre": "Ocaña Norte de Santander"
+    },
+    {
+        "nombre": "Paipa, Boyacá"
+    },
+    {
+        "nombre": "Palmira Valle del Cauca"
+    },
+    {
+        "nombre": "Pamplona Norte de Santander"
+    },
+    {
+        "nombre": "Pasto Nariño"
+    },
+    {
+        "nombre": "Pereira Risaralda"
+    },
+    {
+        "nombre": "Piedecuesta Santander"
+    },
+    {
+        "nombre": "Pitalito Huila"
+    },
+    {
+        "nombre": "Popayán Cauca"
+    },
+    {
+        "nombre": "Quibdó Choco"
+    },
+    {
+        "nombre": "Riohacha Guajira"
+    },
+    {
+        "nombre": "Rionegro Antioquia"
+    },
+    {
+        "nombre": "Sabanalarga Atlántico"
+    },
+    {
+        "nombre": "San Andrés Isla"
+    },
+    {
+        "nombre": "Santa Marta Magdalena"
+    },
+    {
+        "nombre": "Sincelejo Sucre"
+    },
+    {
+        "nombre": "Soacha Cundinamarca"
+    },
+    {
+        "nombre": "Sogamoso Boyacá"
+    },
+    {
+        "nombre": "Soledad Atlántico"
+    },
+    {
+        "nombre": "Tibú Norte de Santander"
+    },
+    {
+        "nombre": "Tuluá Valle del Cauca"
+    },
+    {
+        "nombre": "Tumaco Nariño"
+    },
+    {
+        "nombre": "Tunja Boyacá"
+    },
+    {
+        "nombre": "Valledupar Cesar"
+    },
+    {
+        "nombre": "Villa de leyva"
+    },
+    {
+        "nombre": "Villa del Rosario Norte de Santander"
+    },
+    {
+        "nombre": "Villavicencio Meta"
+    },
+    {
+        "nombre": "Yopal Casanare"
+    },
+    {
+        "nombre": "Yumbo Valle del Cauca"
+    },
+    {
+        "nombre": "Zipaquirá Cundinamarca"
+    },
+    {
+        "nombre": "Apartadó Antioquia"
+    },
+    {
+        "nombre": "Arauca"
+    },
+    {
+        "nombre": "Armenia Quindío"
+    },
+    {
+        "nombre": "Barrancabermeja Santander"
+    },
+    {
+        "nombre": "Barranquilla Atlántico"
+    },
+    {
+        "nombre": "Bello Antioquia"
+    },
+    {
+        "nombre": "Bogotá"
+    },
+    {
+        "nombre": "Bucaramanga Santander"
+    },
+    {
+        "nombre": "Buenaventura Valle del Cauca"
+    },
+    {
+        "nombre": "Buga Valle del Cauca"
+    },
+    {
+        "nombre": "Cali Valle del Cauca"
+    },
+    {
+        "nombre": "Cartago Valle del Cauca"
+    },
+    {
+        "nombre": "Cartagena Bolivar"
+    },
+    {
+        "nombre": "Caucasia Antioquia"
+    },
+    {
+        "nombre": "Cereté Córdoba"
+    },
+    {
+        "nombre": "Chia Cundinamarca"
+    },
+    {
+        "nombre": "Ciénaga Magdalena"
+    },
+    {
+        "nombre": "Cúcuta Norte de Santander"
+    },
+    {
+        "nombre": "Dosquebradas Risaralda"
+    },
+    {
+        "nombre": "Duitama Boyacá"
+    },
+    {
+        "nombre": "Envigado Antioquia"
+    },
+    {
+        "nombre": "Facatativá Cundinamarca"
+    },
+    {
+        "nombre": "Florencia Caqueta"
+    },
+    {
+        "nombre": "Floridablanca Santander"
+    },
+    {
+        "nombre": "Fusagasugá Cundinamarca"
+    },
+    {
+        "nombre": "Girardot Cundinamarca"
+    },
+    {
+        "nombre": "Girón Santander"
+    },
+    {
+        "nombre": "Ibagué Tolima"
+    },
+    {
+        "nombre": "Ipiales Nariño"
+    },
+    {
+        "nombre": "Itagüí Antioquia"
+    },
+    {
+        "nombre": "Jamundí Valle del Cauca"
+    },
+    {
+        "nombre": "Lorica Córdoba"
+    },
+    {
+        "nombre": "Magangué Bolivar"
+    },
+    {
+        "nombre": "Maicao Guajira"
+    },
+    {
+        "nombre": "Malambo Atlántico"
+    },
+    {
+        "nombre": "Manizales Caldas"
+    },
+    {
+        "nombre": "Medellín Antioquia"
+    },
+    {
+        "nombre": "Melgar Tolima"
+    },
+    {
+        "nombre": "Montería Córdoba"
+    },
+    {
+        "nombre": "Neiva Huila"
+    },
+    {
+        "nombre": "Ocaña Norte de Santander"
+    },
+    {
+        "nombre": "Paipa, Boyacá"
+    },
+    {
+        "nombre": "Palmira Valle del Cauca"
+    },
+    {
+        "nombre": "Pamplona Norte de Santander"
+    },
+    {
+        "nombre": "Pasto Nariño"
+    },
+    {
+        "nombre": "Pereira Risaralda"
+    },
+    {
+        "nombre": "Piedecuesta Santander"
+    },
+    {
+        "nombre": "Pitalito Huila"
+    },
+    {
+        "nombre": "Popayán Cauca"
+    },
+    {
+        "nombre": "Quibdó Choco"
+    },
+    {
+        "nombre": "Riohacha Guajira"
+    },
+    {
+        "nombre": "Rionegro Antioquia"
+    },
+    {
+        "nombre": "Sabanalarga Atlántico"
+    },
+    {
+        "nombre": "San Andrés Isla"
+    },
+    {
+        "nombre": "Santa Marta Magdalena"
+    },
+    {
+        "nombre": "Sincelejo Sucre"
+    },
+    {
+        "nombre": "Soacha Cundinamarca"
+    },
+    {
+        "nombre": "Sogamoso Boyacá"
+    },
+    {
+        "nombre": "Soledad Atlántico"
+    },
+    {
+        "nombre": "Tibú Norte de Santander"
+    },
+    {
+        "nombre": "Tuluá Valle del Cauca"
+    },
+    {
+        "nombre": "Tumaco Nariño"
+    },
+    {
+        "nombre": "Tunja Boyacá"
+    },
+    {
+        "nombre": "Valledupar Cesar"
+    },
+    {
+        "nombre": "Villa de leyva"
+    },
+    {
+        "nombre": "Villa del Rosario Norte de Santander"
+    },
+    {
+        "nombre": "Villavicencio Meta"
+    },
+    {
+        "nombre": "Yopal Casanare"
+    },
+    {
+        "nombre": "Yumbo Valle del Cauca"
+    },
+    {
+        "nombre": "Zipaquirá Cundinamarca"
+    }
+] 
